@@ -3,7 +3,7 @@
 About me:
 - 🔭 I’m currently working on NEET
 - 🌱 I’m currently learning C/C++; Python; SQL; PHP;
-- 📫 How to reach me: twitter
+- 📫 How to reach me: [twitter](https://twitter.com/hasetoshi_05214)
 
 <h align="left">Languages and Status:</h3>
 
