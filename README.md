@@ -6,6 +6,8 @@ About me:
 - 📫 How to reach me: [twitter](https://twitter.com/hasetoshi_05214)
 - ![](https://cdn.icon-icons.com/icons2/2530/PNG/96/codewars_button_icon_151901.png) profile: [Codewars](https://www.codewars.com/users/hasetoshi-03528)
 - VRChat ID: hasetoshi_36745
+- bilibili ID: [トシちゃんねる](https://b23.tv/KziRMwq)
+
 
 <h align="left">Languages and Status:</h3>
 
@@ -21,6 +23,9 @@ About me:
 ![](https://cdn.icon-icons.com/icons2/70/PNG/96/ubuntu_14143.png)
 <img src="https://www.codewars.com/packs/assets/logo-square-red-big-dark-text.2e091298.png" width="90px">
 <img src="https://img.icons8.com/color/2x/windows-logo.png" width="100px">
+<img src="https://play-lh.googleusercontent.com/C1tISqYgtW_ejAmnGzvepbaYt7NJLagPelCZ_lzNv06RJPQgBx1_q3VX67z9wc48EgY" width="90px">
+&nbsp;
+<img src="https://vtuber-love.com/wp-content/uploads/2018/05/header.jpg" width="200">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasetoshi-03528&theme=github_dark)
