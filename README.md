@@ -27,6 +27,7 @@ About me:
 <img src="https://play-lh.googleusercontent.com/C1tISqYgtW_ejAmnGzvepbaYt7NJLagPelCZ_lzNv06RJPQgBx1_q3VX67z9wc48EgY" width="90px">
 &nbsp;
 <img src="https://vtuber-love.com/wp-content/uploads/2018/05/header.jpg" width="200">
+&nbsp;
 <img src="https://www.daiho-c.co.jp/daiho-c/wp-content/uploads/2021/02/youtube%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png" width="200">
 
 
