@@ -7,6 +7,7 @@ About me:
 - ![](https://cdn.icon-icons.com/icons2/2530/PNG/96/codewars_button_icon_151901.png) profile: [Codewars](https://www.codewars.com/users/hasetoshi-03528)
 - VRChat ID: hasetoshi_36745
 - bilibili ID: [トシちゃんねる](https://b23.tv/KziRMwq)
+- Youtube channel: [@hasetoshi_63746](https://www.youtube.com/@hasetoshi_63746/videos)
 
 
 <h align="left">Languages and Status:</h3>
@@ -26,6 +27,7 @@ About me:
 <img src="https://play-lh.googleusercontent.com/C1tISqYgtW_ejAmnGzvepbaYt7NJLagPelCZ_lzNv06RJPQgBx1_q3VX67z9wc48EgY" width="90px">
 &nbsp;
 <img src="https://vtuber-love.com/wp-content/uploads/2018/05/header.jpg" width="200">
+<img src="https://www.daiho-c.co.jp/daiho-c/wp-content/uploads/2021/02/youtube%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png" width="200">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasetoshi-03528&theme=github_dark)
