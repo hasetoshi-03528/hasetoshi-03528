@@ -8,6 +8,7 @@ About me:
 - VRChat ID: hasetoshi_36745
 - bilibili ID: [トシちゃんねる](https://b23.tv/KziRMwq)
 - Youtube channel: [@hasetoshi_63746](https://www.youtube.com/@hasetoshi_63746/videos)
+- Qiita :[hasetoshi-03528](https://qiita.com/hasetoshi-03528)
 
 
 <h align="left">Languages and Status:</h3>
