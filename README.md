@@ -29,9 +29,7 @@ About me:
 &nbsp;
 <img src="https://scrapbox.io/api/pages/icons/qiitan/icon" width="90px">
 &nbsp;
-<img src="https://vtuber-love.com/wp-content/uploads/2018/05/header.jpg" width="200">
-&nbsp;
-<img src="https://www.daiho-c.co.jp/daiho-c/wp-content/uploads/2021/02/youtube%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png" width="200">
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasetoshi-03528&theme=github_dark)
